@@ -1,0 +1,21 @@
+ion-item {
+  margin-bottom: 2rem;
+}
+
+.item-interactive {
+  caret-color: #09afad;
+}
+.item-interactive.item-has-focus,
+.item-interactive.item-has-focus {
+  --highlight-background: #09afad;
+}
+
+.form-group {
+  margin: 2rem 0;
+}
+
+#publish {
+  --background: #09afad;
+  margin-top: 2rem;
+  background-color: #09afad !important;
+}

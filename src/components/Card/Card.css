@@ -1,0 +1,31 @@
+.card img {
+  height: 107px;
+  border-radius: 5px;
+}
+
+ion-card {
+  box-shadow: none;
+}
+ion-card-title {
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+ion-card-subtitle {
+  font-size: 12px;
+}
+
+ion-card-header {
+  padding: 0 0 0 10px !important;
+}
+
+ion-card-header.ios {
+  display: flex;
+  flex-flow: column-reverse;
+}
+
+.read-more-btn {
+  color: #09afad;
+  text-decoration: none;
+  font-size: 12px;
+}
